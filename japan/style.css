@@ -8,8 +8,8 @@ a {
     text-align:center;
 }
 .flag {
-  width:600px;
-  height:300px; 
+  width:650px;
+  height:400px; 
   margin:auto;
   border:1px solid black;
 }
@@ -25,10 +25,10 @@ a {
   }
     
   .middle {
-    height:60%;
-    width: 30%;
+    height:230px;
+    width: 230px;
     margin-left: 210px; 
-    margin-top: 60px;
+    margin-top: 85px;
     display:block;
 }
 
