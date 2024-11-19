@@ -8,23 +8,25 @@ a {
     text-align:center;
 }
 .flag {
-  width:600px;
-  height:400px;
+  width:900px;
+  height:600px;
   margin:auto;
   border:1px solid black;
 }
 
 .stripe {
-    height:100%;
     width:33.33%;
-    float: left;
+    height:100%;
+float:left;
 }
 
-img {
-    width:200px;
-     margin: 100px 0px 0px 0px
- }
+.red {
+    background:#CE1126;
+}
 
 .yellow {
-    background:#FFC726;
+    background:	#FCD116;
+}
+.green {
+    background:#009460;
 }

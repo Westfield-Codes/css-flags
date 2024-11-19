@@ -8,14 +8,15 @@ a {
     text-align:center;
 }
 .flag {
-  width:1000px;
+  width:900px;
   height:600px;
   margin:auto;
 }
 
 .stripe {
-    width:100%;
-    height:33.33%;
+    height:100%;
+    width:33.33%;
+    float:left;
 }
 
 .white {
@@ -23,8 +24,5 @@ a {
 }
 
 .green {
-    background-color: #00966E;
-}
-.red {
-    background-color: #CC0000;
+    background-color: #008751;
 }

@@ -8,9 +8,10 @@ a {
     text-align:center;
 }
 .flag {
-  width:1000px;
-  height:600px;
+  width:600px;
+  height:400px;
   margin:auto;
+  border:1px solid black;
 }
 
 .stripe {
@@ -18,13 +19,19 @@ a {
     height:33.33%;
 }
 
-.white {
-    background-color: #FFFFFF;
+.aquamarine {
+    background:#1EB53A
+    ;
 }
 
-.green {
-    background-color: #00966E;
+.yellow {
+    background:white;
 }
-.red {
-    background-color: #CC0000;
+.blue {
+    background: #0072C6
 }
+
+
+  
+ 
+  

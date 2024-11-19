@@ -17,14 +17,16 @@ a {
 .stripe {
     height:100%;
     width:33.33%;
-    float: left;
+    float:left;
 }
 
-img {
-    width:200px;
-     margin: 100px 0px 0px 0px
- }
+.orange {
+    background:#FF8200;
+}
 
-.yellow {
-    background:#FFC726;
+.white {
+    background:#FFFFFF;
+}
+.green {
+    background:#009A44;
 }
