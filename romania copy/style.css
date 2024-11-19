@@ -20,22 +20,13 @@ a {
     float:left;
 }
 
-.img {
-    height:70px;
-    width:70px;
-}
-.middle {
-    display:block;
-    margin:91.5px auto;
-}
-
-.blue {
-    background:#4798D1;
+.red {
+    background:#002780;
 }
 
 .white {
-    background:#FFFFFF;
+    background:#FCD20F;
 }
 .green {
-    background:#4798D1;
+    background:#CF0921;
 }

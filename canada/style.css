@@ -20,22 +20,16 @@ a {
     float:left;
 }
 
-.img {
-    height:70px;
-    width:70px;
-}
 .middle {
     display:block;
     margin:91.5px auto;
 }
 
-.blue {
-    background:#4798D1;
+.red {
+    background:#CF0921;
 }
 
 .white {
-    background:#FFFFFF;
+    background:#FFFFFF
 }
-.green {
-    background:#4798D1;
-}
+
