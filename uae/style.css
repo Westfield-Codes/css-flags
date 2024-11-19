@@ -1,0 +1,45 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+    .flag { 
+        width: 360px; 
+        height: 180px; 
+        position: relative; 
+        display: inline-block; 
+        
+    } 
+    .flag .green, .flag .white, .flag .black { 
+        position: absolute; 
+        width: 720px; 
+        height: 240px; 
+    } 
+    .flag .green { 
+        background-color: #00732f; 
+        top: 0; 
+        left: 240px; 
+        
+    } 
+    .flag .white 
+    { background-color: #ffffff; 
+        top: 240px; 
+        left: 240px; 
+    } 
+    .flag .black { 
+        background-color: #000000; 
+        top: 480px; 
+        left: 240px; 
+    } 
+    .flag .red 
+    { background-color: #d52b1e; 
+        width: 240px; 
+        height: 720px; 
+        position: absolute; 
+        top: 0; 
+        left:0; 
+    }
