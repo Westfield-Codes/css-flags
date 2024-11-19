@@ -16,37 +16,52 @@ a {
 }
 
 .square {
-    width:100%;
-    height:40%;
+    width:50%;
+    height:170px;
 }
-
-
 
 .blue {
     background:#002D62;
+    height:130px;
+}
+
+.redd {
+    background:#CE1126;    
+    width:230px;
+    height:130px;
+    margin:0px 0px 0px 45px;
 }
 
 .white {
     background:#FFFFFF;
-    height:20%;
+    height:5%;
     width:100%;
+    margin:0px 0px 30px 0px;
 }
 
 .whitee {
     background:#FFFFFF;
-    width:15%;
-    height:250%;
-    margin: 0px 0px 0px 210px;
+    width:18%;
+    height:231%;
+    margin: 0px 0px 0px 225px;
     position:relative;
 }
 
 .red {
-    background:#CE1126;
+   background:#CE1126;
+   height:125px;
+}
+
+.bluee {
+    background:#002D62;
+    width:250px;
+    height:125px;
+    margin:0px 0px 0px 250px;
 }
  img {
-    width:75px;
-    height:70px;
-    margin:110px 0px 0px 0px
+    width:55px;
+    height:50px;
+    margin:125px 0px 0px 0px
  }
 
 
