@@ -1,0 +1,102 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:900px;
+  height:600px;
+  margin:auto;
+  border:1px solid black;
+  position:relative;
+}
+.stripe {
+    width:100%;
+    height:20%;
+}
+
+.left .square {
+    background: white;
+    width:100px;
+    position:absolute;
+    z-index: 2;
+}
+
+.left {
+    width: 400px; 
+    height: 100%;
+    z-index: 1;
+    position:relative;
+    background: red;
+}
+
+
+.right {
+    width: 100%;
+    height: 100%;
+}
+.white {
+    background:white;
+}
+.blue {
+    background:#0D5EAF;
+}
+.bottom {
+    background:#0D5EAF;
+}
+.left {
+    background: red;
+    float: left;
+}
+.bottom {
+    clear: both;
+    background: green;
+}
+.top, .bottom {
+    width: 100%;
+    height: 50%;
+}
+
+#cross {
+    width: 400px;
+    height: 300px;
+    /* position: absolute; */
+    /* z-index: 2; */
+}
+.horizontal {
+    width: 400px; 
+    height:60px;
+    z-index: 1;
+    background: red;
+   position:absolute;
+   bottom:25px;
+}
+
+/* cross */
+#cross {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    float:left;
+
+}
+#horizontal-cross {
+    background: white;
+    width:100%; 
+    height: 60px;
+    top: 120px;
+    position: absolute;
+    z-index: 1;
+}
+#vertical-cross {
+    background: white;
+    width: 60px;; 
+    height:300px;
+    right: 180px;
+    position: absolute;
+    z-index: 2;
+}

@@ -1,0 +1,39 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:700px;
+  height:600px;
+  margin:auto;
+  border:1px solid black;
+}
+
+.stripe {
+    width:100%;
+    height:33.33%;
+}
+
+.orange {
+    background:#E05206;
+}
+
+.white {
+    background:white;
+}
+.green {
+    background:#0DB02B;
+}
+.circle {
+    border-radius: 50%;
+    background:#E05206;
+    height: 90%;
+    aspect-ratio: 1/1;
+    margin: auto; 
+    margin-top: 30px;
+}
