@@ -14,19 +14,30 @@ a {
   border:1px solid black;
 }
 
-.stripe {
+.smallstripe {
     height:100%;
-    width:200px;
+    width:150px;
+    float:left;
+}
+
+.largestripe {
+    height:100%;
+    width:300px;
     float:left;
 }
 
 .middle {
     display:block;
-    margin:91.5px auto;
+    position:relative;
+    margin:auto;
+    top:25px;
 }
 
+img {
+    brightness: 
+}
 .red {
-    background:#CF0921;
+    background:#D62718;
 }
 
 .white {
