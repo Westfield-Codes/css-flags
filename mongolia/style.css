@@ -8,28 +8,28 @@ a {
     text-align:center;
 }
 .flag {
-  width:900px;
+  width:1200px;
   height:600px;
   margin:auto;
   border:1px solid black;
 }
 
-img{
-    width: 121px;
-    margin:20px;
-}
-
 .stripe {
     height:100%;
-    width:50%;
+    width:33.33%;
     float:left;
-    margin:0;
 }
 
-
-.white {
-    background:white;
-}
 .red {
-    background:red;
+    background:#DA2032;
+}
+
+.blue {
+    background:#0066B3;
+}
+
+#soyombo {
+    height:480px;
+    padding-left:20%;
+    padding-top:15%;
 }

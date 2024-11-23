@@ -12,24 +12,22 @@ a {
   height:600px;
   margin:auto;
   border:1px solid black;
-}
-
-img{
-    width: 121px;
-    margin:20px;
+  overflow:auto;
 }
 
 .stripe {
     height:100%;
-    width:50%;
+    width:33.33%;
     float:left;
-    margin:0;
 }
 
+.blue {
+    background:	#00205B;
+}
 
-.white {
-    background:white;
+.yellow {
+    background:	#FFCD00;
 }
 .red {
-    background:red;
+    background:	#C8102E;
 }

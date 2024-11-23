@@ -12,24 +12,27 @@ a {
   height:600px;
   margin:auto;
   border:1px solid black;
+  overflow:auto;
 }
 
-img{
-    width: 121px;
-    margin:20px;
-}
-
-.stripe {
+.stripev {
     height:100%;
-    width:50%;
+    width:39.22%;
     float:left;
-    margin:0;
 }
 
+.stripe{
+    height:50%;
+    width:100%;
+}
 
-.white {
-    background:white;
+.green {
+    background:	#008850;
+}
+
+.yellow {
+    background:	#FCD20F;
 }
 .red {
-    background:red;
+    background:	#E90929;
 }
