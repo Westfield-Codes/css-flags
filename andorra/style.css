@@ -12,6 +12,7 @@ a {
   height:600px;
   margin:auto;
   border:1px solid black;
+  position:relative;
 }
 
 .stripe {
@@ -30,6 +31,11 @@ a {
 .blue {
     background-color:#10069f;
 }
-.emblem {
-    margin:auto;
+
+img {
+    width:50px;
+    height:50px;
+    position:absolute;
+    left:50px;
+    top:100px;
 }
